@@ -2,7 +2,7 @@
 
 **InsuranceSaathi** is a comprehensive AI-powered insurance claim assistant that helps users navigate through complex insurance claim processes. The application supports Vehicle, Health, and Home insurance claims with multilingual support (English/Hindi) and integrates with multiple AI providers for intelligent assistance.
 
-**Note** : Ollama runs locally so i wont run when on the deployed link. The deployed link is to **test the UI**.
+**Note** : Ollama runs locally so it wont run when on the deployed link. The deployed link is to **test the UI**.
 
 ## 🌟 Features
 
